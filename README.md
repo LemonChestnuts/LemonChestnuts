@@ -58,7 +58,7 @@
 
 ## Blogs‘日志’
 
-- [当日转化roi奖](https://zrx382818742.github.io/2022/03/10/%E5%BD%93%E6%97%A5%E8%BD%AC%E5%8C%96ROI%E5%A5%96/)
+- [栗子的幽默段子](https://lemonchestnuts.github.io/2022/03/11/%E6%A0%97%E5%AD%90%E7%9A%84%E5%B9%BD%E9%BB%98%E6%AE%B5%E5%AD%90/)
 - [今日此时所想之事（二）](https://wu-kan.cn/2021/02/11/%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B-%E4%BA%8C/)
 - [十月九日](https://wu-kan.cn/2020/10/09/%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/)
 - [今日此时所想之事](https://wu-kan.cn/2020/01/24/%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
